@@ -1,0 +1,7 @@
+streamlit
+azure-core
+azure-ai-formrecognizer
+azure-ai-textanalytics
+fpdf
+fitz
+PyMuPDF
